@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Use — I Have Never</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f5f5f7;
+      color: #1d1d1f;
+      line-height: 1.7;
+    }
+    header {
+      background: #3840d0;
+      color: #fff;
+      padding: 48px 24px 40px;
+      text-align: center;
+    }
+    header h1 { font-size: 28px; font-weight: 700; margin-bottom: 6px; }
+    header p  { font-size: 14px; opacity: 0.75; }
+    main {
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 0 24px 60px;
+    }
+    section { margin-bottom: 36px; }
+    h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      color: #1d1d1f;
+    }
+    p { font-size: 15px; color: #3d3d3f; margin-bottom: 10px; }
+    ul { padding-left: 20px; margin-bottom: 10px; }
+    li { font-size: 15px; color: #3d3d3f; margin-bottom: 6px; }
+    a { color: #3840d0; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    }
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+      padding: 24px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Terms of Use</h1>
+  <p>I Have Never — Last updated: July 2026</p>
+</header>
+
+<main>
+  <div class="card">
+
+    <section>
+      <h2>Acceptance of Terms</h2>
+      <p>By downloading or using I Have Never ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.</p>
+    </section>
+
+    <section>
+      <h2>License</h2>
+      <p>Herman Yurchanka grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes on Apple-branded devices that you own or control, subject to these Terms and Apple's App Store Terms of Service.</p>
+    </section>
+
+    <section>
+      <h2>Age Restrictions</h2>
+      <p>The App contains categories of content intended for users aged 18 and older. By accessing 18+ content categories, you confirm that you are at least 18 years of age. The App as a whole is rated 17+ on the App Store.</p>
+    </section>
+
+    <section>
+      <h2>Subscriptions and Billing</h2>
+      <p>The App offers an auto-renewable subscription that unlocks all premium content categories:</p>
+      <ul>
+        <li><strong>Free trial:</strong> 3 days at no charge.</li>
+        <li><strong>Subscription fee:</strong> Charged monthly after the free trial ends. The exact price is displayed in the App and in the App Store listing.</li>
+        <li><strong>Auto-renewal:</strong> Your subscription automatically renews unless you cancel at least 24 hours before the end of the current billing period.</li>
+        <li><strong>Billing:</strong> Your Apple ID account is charged at confirmation of purchase and upon each renewal.</li>
+        <li><strong>Cancellation:</strong> You can cancel anytime in your Apple ID Account Settings. Cancellation takes effect at the end of the current billing period.</li>
+        <li><strong>Refunds:</strong> Refund requests are handled by Apple in accordance with their refund policy.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Prohibited Use</h2>
+      <p>You agree not to:</p>
+      <ul>
+        <li>Copy, modify, or distribute the App or its content</li>
+        <li>Reverse-engineer or attempt to extract the source code</li>
+        <li>Use the App for any unlawful purpose</li>
+        <li>Share or resell access to the App</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Intellectual Property</h2>
+      <p>All content in the App, including card text, design, and graphics, is owned by Herman Yurchanka and is protected by copyright law. No content may be reproduced without prior written permission.</p>
+    </section>
+
+    <section>
+      <h2>Disclaimer of Warranties</h2>
+      <p>The App is provided "as is" without warranties of any kind. We do not guarantee that the App will be error-free, uninterrupted, or free of harmful components.</p>
+    </section>
+
+    <section>
+      <h2>Limitation of Liability</h2>
+      <p>To the fullest extent permitted by applicable law, Herman Yurchanka shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.</p>
+    </section>
+
+    <section>
+      <h2>Changes to Terms</h2>
+      <p>We reserve the right to modify these Terms at any time. Continued use of the App after changes are posted constitutes your acceptance of the revised Terms.</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>For questions about these Terms, please contact us at:</p>
+      <p><a href="mailto:geraurhapp@gmail.com">geraurhapp@gmail.com</a></p>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  &copy; 2026 Herman Yurchanka. All rights reserved.
+</footer>
+
+</body>
+</html>
